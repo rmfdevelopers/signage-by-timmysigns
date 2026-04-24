@@ -7,9 +7,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "var(--primary)",
-        secondary: "var(--secondary)",
-        accent: "var(--accent)",
+        primary: "#2E7D32",
+        secondary: "#FDF6EC",
+        accent: "#C62828",
       },
       fontFamily: {
         heading: ["var(--font-heading)"],
